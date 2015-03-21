@@ -1,5 +1,5 @@
 # TransformGame
-A simple text-based game in C++ where the player changes into animals to traverse a maze. Intro to CS 2 final project.
+A simple text-based game in C++ where the player changes into animals to traverse a maze. Winter 2015 Intro to CS II final project; focus was largely on polymorphism and linked structures.
 
 Original notes from game.cpp (main function file):
 
