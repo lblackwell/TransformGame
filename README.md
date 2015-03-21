@@ -21,15 +21,18 @@ Example input: 'W' to move west
 
 Output:   The program will narrate the player's journey through the temple.
 
-Example output: The temple feels unsteady. You estimate you can take about 80 more actions until it slips back into the sea.
-                         This room is mostly dry and well-lit. You appear to be alone.
+Example output:
+
+The temple feels unsteady. You estimate you can take about 80 more actions until it slips back into the sea.
+
+This room is mostly dry and well-lit. You appear to be alone.
                          
-                         There are doors in the following directions:
+There are doors in the following directions:
                          
-                         South
+South
                          
-                         East
+East
                          
-                         West
+West
                          
-                         What will you do? (1 - search room, 2 - move on, 3 - view inventory, 4 - drop item):
+What will you do? (1 - search room, 2 - move on, 3 - view inventory, 4 - drop item):
